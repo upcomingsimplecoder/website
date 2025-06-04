@@ -12,7 +12,7 @@
 	};
 
 	var _config = {
-		url: 'php/subscribe.php',
+		url: 'vendor/contact-mailer.php',
 		onSuccess: function(data){},
 		onError: function(data){}
 	};
